@@ -12,8 +12,8 @@ Languages and Tools:
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-FF00FF)
 
 Некоторые из проектов над которыми я работала:
-[Продуктовый помощник Foodgram](https://github.com/Xenia387/foodgram-project-react)
-[Проект YaMDb](https://github.com/Xenia387/api_yamdb)
+- [Продуктовый помощник Foodgram](https://github.com/Xenia387/foodgram-project-react)
+- [Проект YaMDb](https://github.com/Xenia387/api_yamdb)
 [Бот-ассистент](https://github.com/Xenia387/homework_bot)
 [Соц. сеть Yatube](https://github.com/Xenia387/api_final_yatube)
 
