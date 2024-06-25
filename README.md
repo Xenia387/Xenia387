@@ -20,5 +20,6 @@ Languages and Tools:
 - [Бот-ассистент](https://github.com/Xenia387/homework_bot)
 - [Соц. сеть Yatube](https://github.com/Xenia387/hw05_final)
 - [API Yatube](https://github.com/Xenia387/api_final_yatube)
+- [Проверочные тесты для Yatube](https://github.com/Xenia387/hw04_tests)
 
 Связаться со мной: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ksenia_An_mova) или по почте anis.xenia@uandex.ru
