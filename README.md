@@ -11,7 +11,10 @@ Languages and Tools:
 ![Nginx](https://img.shields.io/badge/-Nginx-8B4513)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-FF00FF)
 
-Последние проекты над которыми я работала:
+Некоторые из проектов над которыми я работала:
 [Продуктовый помощник Foodgram](https://github.com/Xenia387/foodgram-project-react)
+[Проект YaMDb](https://github.com/Xenia387/api_yamdb)
+[Бот-ассистент](https://github.com/Xenia387/homework_bot)
+[Соц. сеть Yatube](https://github.com/Xenia387/api_final_yatube)
 
 Связаться со мной: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ksenia_An_mova)
