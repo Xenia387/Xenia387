@@ -12,6 +12,6 @@ Languages and Tools:
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-FF00FF)
 
 Последние проекты над которыми я работала:
-<a href="#bottomOfPage">Продуктовый помощник Foodgram</a>
+[Продуктовый помощник Foodgram](https://github.com/Xenia387/foodgram-project-react)
 
 Связаться со мной: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ksenia_An_mova)
