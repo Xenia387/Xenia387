@@ -9,7 +9,10 @@ Languages and Tools:
 ![SQLite](https://img.shields.io/badge/-SQLite-FFFF00)
 ![Git](https://img.shields.io/badge/-Git-2F4F4F)
 ![Nginx](https://img.shields.io/badge/-Nginx-8B4513)
-![Gunicorn](https://img.shields.io/badge/-Gunicorn-FF00FF)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-008080)
+![HTTP](https://img.shields.io/badge/-HTTP-7B68EE)
+![Postman](https://img.shields.io/badge/-Postman-BC8F8F)
+![RESTAPI](https://img.shields.io/badge/-RESTAPI-4B0082)
 
 Некоторые из проектов над которыми я работала:
 - [Продуктовый помощник Foodgram](https://github.com/Xenia387/foodgram-project-react)
@@ -17,4 +20,4 @@ Languages and Tools:
 - [Бот-ассистент](https://github.com/Xenia387/homework_bot)
 - [Соц. сеть Yatube](https://github.com/Xenia387/api_final_yatube)
 
-Связаться со мной: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ksenia_An_mova)
+Связаться со мной: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ksenia_An_mova) или по почте anis.xenia@uandex.ru
