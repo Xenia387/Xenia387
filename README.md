@@ -22,4 +22,4 @@ Languages and Tools:
 - [API Yatube](https://github.com/Xenia387/api_final_yatube)
 - [Тесты для Yatube](https://github.com/Xenia387/hw04_tests)
 
-Связаться со мной: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ksenia_An_mova) или по почте anis.xenia@uandex.ru
+Связаться со мной: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ksenia_An_mova) или по почте anis.xenia@yandex.ru
