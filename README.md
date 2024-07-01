@@ -1,5 +1,4 @@
-Обо мне: Я начинаюший Python и Backend разработчик. Учусь на платных курсах с наставниками и самостоятельно на бесплатных курсах, youtube-каналах
-
+Обо мне: Я начинаюший Python и Backend разработчик
 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-DC143C)
 ![Docker](https://img.shields.io/badge/-Docker-00BFFF)
