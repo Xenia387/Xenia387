@@ -1,4 +1,4 @@
-Обо мне: Я начинаюший Python и Backend разработчик
+Обо мне: Я начинаюший Python и Backend разработчик<br>
 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-DC143C)
 ![Docker](https://img.shields.io/badge/-Docker-00BFFF)
